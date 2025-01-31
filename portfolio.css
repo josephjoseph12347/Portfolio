@@ -1,0 +1,33 @@
+body{
+    background-color: gainsboro;
+}
+.a{
+    font-size: 30px;
+}
+.b{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    height: 200px;
+}
+.c{
+    text-decoration: none;
+}
+.d{
+    color: #fff;
+    text-align: center;
+    background-color: darkslategrey;
+    height: 100px;
+    width: 1350px;
+    margin-left: -15px;
+    margin-right: 0px;
+}
+.e{
+    height: 30px;
+}
+.f{
+    height: 60px;
+}
+.g{
+    height: 200px;
+}

@@ -1,0 +1,81 @@
+body{
+    background-color: gainsboro;
+}
+.a{
+    width: 80px;
+    height: 30px;
+    background-color: lightsalmon; 
+    color: black;
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+    top: 10px;
+    left: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    border-width: 100px;
+    border-radius: 10px;
+}
+.b{
+    color: #fff;
+    text-align: center;
+    background-color: darkslategrey;
+    height: 100px;
+    width: 1350px;
+    margin-left: -15px;
+    margin-right: 0px;
+}
+.c{
+    height: 30px;
+}
+.d{
+    height: 60px;
+}
+.e{
+    
+    text-decoration: none; 
+}
+.f{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    height: 50px;
+}
+.g{
+    width: 200px;
+    height: 200px;
+    background-color: #e4087e; 
+    color: #fff;
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+    top: 10px;
+    left: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    border-width: 100px;
+    border-radius: 10px;
+    background-color: darkgray;
+    color: black;
+}
+.h{
+    width: 200px;
+    height: 200px;
+    background-color: #e4087e; 
+    color: #fff;
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+    top: 10px;
+    left: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    border-width: 100px;
+    border-radius: 10px;
+    margin-left: 200px;
+    background-color: bisque;
+    color: black;
+}
+.i{
+    height: 100px;
+}
